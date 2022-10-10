@@ -37,7 +37,7 @@ This is a nuspec. It mostly adheres to https://docs.nuget.org/create/Nuspec-Refe
     <authors>ExpressLRS Configurator Contributors</authors>
     <!-- projectUrl is required for the community feed -->
     <projectUrl>https://github.com/ExpressLRS</projectUrl>
-    <iconUrl>https://github.com/ExpressLRS/ExpressLRS-Configurator/raw/master/assets/icons/128x128.png</iconUrl>
+    <iconUrl>https://raw.githubusercontent.com/ExpressLRS/ExpressLRS-Configurator/master/assets/icons/128x128.png</iconUrl>
     <copyright>© 2022 ExpressLRS Configurator Contributors</copyright>
     <!-- If there is a license Url available, it is required for the community feed -->
     <licenseUrl>https://github.com/ExpressLRS/ExpressLRS-Configurator/raw/master/LICENSE</licenseUrl>
