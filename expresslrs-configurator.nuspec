@@ -33,7 +33,7 @@ This is a nuspec. It mostly adheres to https://docs.nuget.org/create/Nuspec-Refe
     <!-- ============================== -->
     <!-- == SOFTWARE SPECIFIC SECTION == -->
     <!-- This section is about the software itself -->
-    <title>ExpressLRS-Configurator</title>
+    <title>ExpressLRS Configurator</title>
     <authors>ExpressLRS Configurator Contributors</authors>
     <!-- projectUrl is required for the community feed -->
     <projectUrl>https://github.com/ExpressLRS</projectUrl>
