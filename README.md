@@ -8,7 +8,7 @@
 4. Update `version` in `expresslrs-configurator.nuspec`
 5. Build pack `choco pack`
 6. Test locally `choco install expresslrs-configurator -dv -s .`
-7. Push `choco push expresslrs-configurator.1.5.0.nupkg -s https://push.chocolatey.org/`
+7. Push `choco push expresslrs-configurator.x.x.x.nupkg -s https://push.chocolatey.org/`
 
 
 ## Links
