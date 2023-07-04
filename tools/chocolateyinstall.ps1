@@ -1,6 +1,6 @@
 ﻿$ErrorActionPreference = 'Stop';
 $toolsDir   = "$(Split-Path -parent $MyInvocation.MyCommand.Definition)"
-$url        = 'https://github.com/ExpressLRS/ExpressLRS-Configurator/releases/download/v1.5.6/ExpressLRS-Configurator-Setup-1.5.6.exe'
+$url        = 'https://github.com/ExpressLRS/ExpressLRS-Configurator/releases/download/v1.5.7/ExpressLRS-Configurator-Setup-1.5.7.exe'
 
 $packageArgs = @{
   packageName   = $env:ChocolateyPackageName
@@ -10,7 +10,7 @@ $packageArgs = @{
 
   softwareName  = 'ExpressLRS-Configurator*'
 
-  checksum      = 'b7fd057527fa829b5e1d1969ac274f992800201fdafef5f5b917d98bc1e5f840'
+  checksum      = '6e0e7681168fdadce8c8903283a59b0e8266ce567c4ede67d1fa63718e2ac3ce'
   checksumType  = 'sha256'
 
   silentArgs    = "/S /allusers"
